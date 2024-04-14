@@ -1,0 +1,29 @@
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "handyfuncs"
+version = "0.0.2"
+authors = [
+  { name="Port Verte", email="porte_verte@outlook.com" },
+]
+description = "Handy functions for manipulating data and automating processes"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.urls]
+Homepage = "https://github.com/porteverte/handyfuncs"
+Issues = "https://github.com/porteverte/handyfuncs/issues"
+
+# dependencies = [
+#     "pandas==1.3.5".,
+#     "sqlalchemy==1.4.27"
+# ]

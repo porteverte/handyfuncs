@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/handyfuncs/__init__.py
+src/handyfuncs/automation.py
+src/handyfuncs/manipulation.py
+src/handyfuncs/marimekko.py
+src/handyfuncs.egg-info/PKG-INFO
+src/handyfuncs.egg-info/SOURCES.txt
+src/handyfuncs.egg-info/dependency_links.txt
+src/handyfuncs.egg-info/top_level.txt
