@@ -22,8 +22,3 @@ where = ["src"]
 [project.urls]
 Homepage = "https://github.com/porteverte/handyfuncs"
 Issues = "https://github.com/porteverte/handyfuncs/issues"
-
-# dependencies = [
-#     "pandas==1.3.5".,
-#     "sqlalchemy==1.4.27"
-# ]
